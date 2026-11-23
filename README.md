@@ -8,12 +8,47 @@ Soy **Lizeth Shirley Amorraga Carvajal**, Desarrollo de Software en Sipe Sipe, Q
 
 **Skills:** Lenguajes de Programación backend y frontend · Marketing Digital · Arquitectura
 
-<p>
-  <img src="https://img.shields.io/badge/Python-22%25-3776ab?style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-13%25-f1d633?style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-30%25-b07219?style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-35%25-e38c00?style=flat-square" alt="SQL"/>
+
+<!-- TECH STACK -->
+
+<h2 align="center">⚡ Tech Stack</h2>
+<p align="center">
+  Technologies and tools I use to build, design and develop projects.
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,php,nodejs,laravel&perline=4" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sql&perline=4" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,bootstrap&perline=4" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Design</h3>
+      <img src="https://skillicons.dev/icons?i=figma&perline=4" />
+      <br/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Always-Learning-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-Creating-0EA5E9?style=flat-square" />
+</p>
+
 
 ### ✦ PROYECTOS.DESTACADOS
 
