@@ -53,6 +53,23 @@ Soy **Lizeth Shirley Amorraga Carvajal**, Desarrollo de Software en Sipe Sipe, Q
 ### ✦ PROYECTOS.DESTACADOS
 
 - **Sistema de Credenciales, ChatBot**
+  
+### ✦ CONTACT
+<p align="center">
+  &nbsp;
+  <a href="https://linkedin.com/in/lizeth-shirley-amorraga-carvajal-42765b208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  &nbsp;
+  <a href="mailto:lizethamorraga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/amorraga_20788" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://www.instagram.com/pyladiescbba/"><img src="./assets/workshop-pyladies.svg" width="100%" alt="Esto es parte del workshop de PyLadies Cochabamba"/></a>
